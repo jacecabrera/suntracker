@@ -4,11 +4,14 @@ An ongoing project that I started this summer to try and save us some money by c
 
 ## to-do:
 
+v1
 - [x] Build general solar panel frame/motor housing
 - [ ] Build circuit for bottom electrical box
 - [ ] Mount LDR shell on top of solar panel center
 - [ ] Wiring
 - [ ] Upload code and test (maybe for a week or so) and note down results
+
+v2
 - [x] Build stepper motor
 - [ ] Replace motor with stepper motor and remove unnecessary sensors
 
