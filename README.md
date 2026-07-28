@@ -28,7 +28,7 @@ Also note that the code provided above is merely pseudocode, and hasn't been pro
 
 ---
 
-For Hack the North judges, more information regarding future plans and my design process are available in an attached google drive in my application.
+For Hack the North judges, more information and photos regarding the design process are available in an attached google drive in my application.
 
 For everybody else, thank you for checking out my project!
 
